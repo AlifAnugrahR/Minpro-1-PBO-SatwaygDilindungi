@@ -1,11 +1,14 @@
 # **Sistem Pendataan Satwa Dilindungi**
+
 ## Alif Anugrah Ramadhan | 2509116019
+
 
 ## **Deskripsi Program**
 Sistem Pendataan Satwa Dilindungi merupakan program berbasis bahasa pemrograman Java yang digunakan untuk melakukan pendataan satwa yang dilindungi secara sederhana. Program ini menerapkan konsep Pemrograman Berorientasi Objek (PBO) dan menyediakan fitur CRUD, yaitu menambah, menampilkan, mengubah, dan menghapus data satwa. Program juga dilengkapi dengan validasi input untuk memastikan data yang dimasukkan oleh pengguna sesuai dengan ketentuan yang telah dibuat.
 
 ## **Class yang ada di program ini**
-1. ### **Minpro1PBOSatwaygDilindungi.java**
+
+### **1. Minpro1PBOSatwaygDilindungi.java**
 Merupakan class utama atau entry point yang digunakan untuk menjalankan program. Class ini menampilkan menu utama, menerima input dari pengguna, dan menentukan proses yang akan dijalankan.
 ### **Satwa.java**
 Merupakan class yang digunakan untuk menyimpan data satwa, yaitu ID satwa, nama satwa, dan jenis satwa. Class ini memiliki constructor dan method untuk menampilkan informasi satwa.
@@ -110,7 +113,7 @@ Program melakukan pengecekan terhadap ID tersebut. Jika ID ditemukan, data satwa
 
 <img width="377" height="70" alt="image" src="https://github.com/user-attachments/assets/79588cf1-ad5c-42da-ab04-80f0ba5936c8" />
 
-### **8. Keluar dari Program
+### **8. Keluar dari Program**
 
 Setelah proses pendataan selesai, pengguna memilih menu 5. Keluar. Program kemudian menampilkan pesan "PROGRAM SELESAI BOSS" dan menghentikan program.
 
